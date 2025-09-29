@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ]
+  ],
+  "legacy_uid": "34c5b1e8-1216-d82f-32d1-3387f8dc0b5d",
+  "instructors": {
+    "content": [
+      "042ee882-aea2-271b-b1e6-f030603d034a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "07691fe6-eb11-9937-6be4-01d92386b791",
+    "website": "6-829-computer-networks-fall-2002"
+  },
+  "course_title": "Computer Networks",
+  "hide_download": true,
+  "course_description": "How does the global network infrastructure work and what are the design principles on which it is based? In what ways are these design principles compromised in practice? How do we make it work better in today's world? How do we ensure that it will work well in the future in the face of rapidly growing scale and heterogeneity? And how should Internet applications be written, so they can obtain the best possible performance both for themselves and for others using the infrastructure? These are some issues that are grappled with in this course. The course will focus on the design, implementation, analysis, and evaluation of large-scale networked systems.\n\nTopics\u00a0include internetworking philosophies, unicast and multicast routing, congestion control, network quality of service, mobile networking, router architectures, network-aware applications, content dissemination systems, network security, and performance issues.\u00a0Material\u00a0for the course will be drawn from research papers, industry white papers, and\u00a0Internet RFCs.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.829",
+  "course_image_thumbnail": {
+    "content": "1b923584-0124-c817-9060-2b77dc685827",
+    "website": "6-829-computer-networks-fall-2002"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "b5662b65-e590-4d12-b41a-08a54c1eb3b5",
+  "site_short_id": "6.829-fall-2002",
+  "site_url_path": "courses/6-829-computer-networks-fall-2002",
+  "title": "Course Metadata"
+}

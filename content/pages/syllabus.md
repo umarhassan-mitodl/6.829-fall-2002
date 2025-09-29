@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,11 +27,11 @@ The goals of 6.829 are to train the next generation of networking researchers, p
 2.  To understand how networking research is done.
 3.  To investigate novel ideas in the area via semester-long research projects.
 
-The past few years have seen a remarkable growth in the global network infrastructure. The Internet has grown from a research curiosity to something we all take for granted, and is becoming as essential as the ubiquitous telephone and utility networks. It has been able to withstand rapid growth fairly well and its core protocols have been robust enough to accommodate applications that were unforeseen by the original Internet designers, such as the {{% resource_link "7c802f3f-213e-4fca-ac23-3d1ffe0edf76" "World Wide Web" %}}.
+The past few years have seen a remarkable growth in the global network infrastructure. The Internet has grown from a research curiosity to something we all take for granted, and is becoming as essential as the ubiquitous telephone and utility networks. It has been able to withstand rapid growth fairly well and its core protocols have been robust enough to accommodate applications that were unforeseen by the original Internet designers, such as the [World Wide Web](http://www.w3.org/).
 
 How does this global network infrastructure work and what are the design principles on which it is based? In what ways are these design principles compromised in practice? How do we make it work better in today's world? How do we ensure that it will work well in the future in the face of rapidly growing scale and heterogeneity? And how should Internet applications be written, so they can obtain the best possible performance both for themselves and for others using the infrastructure? These are some issues that we will grapple with in this course. The course will focus on the design, implementation, analysis, and evaluation of large-scale networked systems.
 
-{{% resource_link 75315fd5-1f0f-93d2-b026-f4068f7f35bf "Topics" %}} include internetworking philosophies, unicast and multicast routing, congestion control, network quality of service, mobile networking, router architectures, network-aware applications, content dissemination systems, network security, and performance issues. {{% resource_link 065ed03c-b61c-e97b-68cc-671caa24bb9a "Material" %}} for the course will be drawn from research papers, industry white papers, and {{% resource_link "cc90f32c-0e7c-43bc-969d-228440605a89" "Internet RFCs" %}}.
+{{% resource_link 75315fd5-1f0f-93d2-b026-f4068f7f35bf "Topics" %}} include internetworking philosophies, unicast and multicast routing, congestion control, network quality of service, mobile networking, router architectures, network-aware applications, content dissemination systems, network security, and performance issues. {{% resource_link 065ed03c-b61c-e97b-68cc-671caa24bb9a "Material" %}} for the course will be drawn from research papers, industry white papers, and [Internet RFCs](http://www.ietf.org/rfc.html).
 
 Prerequisites
 -------------
