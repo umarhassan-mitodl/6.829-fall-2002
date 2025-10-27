@@ -19,13 +19,13 @@ This section contains useful references and web sites related to the networking 
 
 Kurose, J., and K. Ross. *Computer Networking: A Top-Down Approach Featuring the Internet*. Reading, MA: Addison Wesley Longman, 2002. ISBN: 0201976994. 
 
-Keshav, S. [An Engineering Approach to Computer Networking](http://www.cs.cornell.edu/home/skeshav/book/slides/). 1st ed. Reading, MA: Addison-Wesley, 1997. ISBN: 0201634422.
+Keshav, S. {{% resource_link "9b413ad7-587a-4f90-8b50-30edc432722d" "An Engineering Approach to Computer Networking" %}}. 1st ed. Reading, MA: Addison-Wesley, 1997. ISBN: 0201634422.
 
 Walrand, Jean. *Communication Networks: A First Course*. Mc Graw Hill, 1998. ISBN: 0256174040.
 
-Tanenbaum, Andrew. *Computer Networks*. 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0133499456. ([Search](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf) for Tanenbaum on the Prentice Hall site).
+Tanenbaum, Andrew. *Computer Networks*. 3rd ed. Upper Saddle River, NJ: Prentice Hall. ISBN: 0133499456. ({{% resource_link "f105fc2a-0e2c-45ae-ad5e-5027bafc3a44" "Search" %}} for Tanenbaum on the Prentice Hall site).
 
-Bertsekas, Dmitri, and Robert Gallager. [*Data Networks*](https://web.mit.edu/dimitrib/www/datanets.html). 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1991. ISBN: 0132009161. 
+Bertsekas, Dmitri, and Robert Gallager. {{% resource_link "1a2d2f30-ef8d-47de-8c5b-7523ed3164b4" "*Data Networks*" %}}. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 1991. ISBN: 0132009161. 
 
 Partridge, Craig. *Gigabit Networking*. Reading, MA: Addison Wesley, 1993. ISBN: 0201563339.
 
@@ -75,38 +75,38 @@ Kleinrock, Len. *Queueing Theory*. New York, NY: Wiley, 1975. ISBN: 0471491101.
 
 ### Programmable Networks
 
-[Wetherall, David](https://research.com/u/david-wetherall). "Service Introduction in an Active Network." Ph. D Thesis, M.I.T., 1999.
+{{% resource_link "33c0b522-f882-4e6b-b165-c281515d613e" "Wetherall, David" %}}. "Service Introduction in an Active Network." Ph. D Thesis, M.I.T., 1999.
 
 ### Useful Links
 
-[Network bibliography](http://www.cs.columbia.edu/~hgs/netbib/) (Extensive searchable index of networking papers and books)
+{{% resource_link "e6ff54cb-b640-45d3-9072-3cb95041aa33" "Network bibliography" %}} (Extensive searchable index of networking papers and books)
 
 ### Writing Papers
 
-- [Collected resources about writing and research](http://www-2.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
+- {{% resource_link "6ac675eb-33fa-4128-8938-977829f3ae72" "Collected resources about writing and research" %}}
 
 ### Professional Organizations
 
-- [ACM](http://www.acm.org/)
-    - [SIGCOMM](http://www.acm.org/sigcomm/) (has links to online versions of some past SIGCOMM proceedings)
-    - [SIGMOBILE](http://www.acm.org/sigmobile/)
-- [IEEE](https://www.ieee.org/)
+- {{% resource_link "bf550562-4f23-4865-bf28-1f5943ced87d" "ACM" %}}
+    - {{% resource_link "0a87a725-feb5-44e1-a918-41fd48a15420" "SIGCOMM" %}} (has links to online versions of some past SIGCOMM proceedings)
+    - {{% resource_link "6c9158fc-7d29-4ad7-8976-aee96ce54ff0" "SIGMOBILE" %}}
+- {{% resource_link "fd3920e4-f3e5-43a9-a656-f4f472cc33c9" "IEEE" %}}
     - Communication Society
     - Computer Society
 
 ### Internet Organizations
 
-- [Internet Engineering Task Force (IETF)](http://www.ietf.org/)
-    - [Internet RFCs](http://www.ietf.org/rfc.html)
-    - [Internet Drafts](http://www.ietf.org/ID.html)
-- [Internet Research Task Force (IRTF)](http://www.irtf.org/)
-    - [Reliable Multicast Research Group](http://irtf.org/concluded/rmrg)
+- {{% resource_link "1d453422-4d5f-4462-a9a7-807d0c49550c" "Internet Engineering Task Force (IETF)" %}}
+    - {{% resource_link "f890ead7-a1c5-4d65-a13c-f9fa4ab40dd6" "Internet RFCs" %}}
+    - {{% resource_link "21cfe185-13dd-4223-829a-81acd0c25c50" "Internet Drafts" %}}
+- {{% resource_link "b32369e4-a4b3-4269-820c-757430b8125c" "Internet Research Task Force (IRTF)" %}}
+    - {{% resource_link "af9b2bee-e3a9-47a9-b4b1-bc25c94e4678" "Reliable Multicast Research Group" %}}
 - Domain Names
 
 ### Network Technologies
 
-- [Bluetooth Device Networking](http://www.bluetooth.com/) (also [here](https://www.bluetooth.org/))
-- [Cable Modem Information](http://www.cablelabs.com/)
+- {{% resource_link "bd68cf7f-00e3-42d8-a08f-2624b6798407" "Bluetooth Device Networking" %}} (also {{% resource_link "5b194ee7-f0b6-40d0-b663-dc70895bb2ff" "here" %}})
+- {{% resource_link "4965323e-21ea-4db8-a593-4c2f60ce4181" "Cable Modem Information" %}}
     - 802.14 (Cable Modem MCNS Standard)
     - DOCSIS Specification
 - 802.3
@@ -115,12 +115,12 @@ Kleinrock, Len. *Queueing Theory*. New York, NY: Wiley, 1975. ISBN: 0471491101.
 
 ### Traffic and Network Analysis Resources
 
-- [Internet Traffic Archive](http://ita.ee.lbl.gov/)
+- {{% resource_link "85c12596-3e0d-427b-a9f0-1c06b3639b8d" "Internet Traffic Archive" %}}
 
 ### Simulation Tools
 
-- [ns](http://www.isi.edu/nsnam/ns/) (network simulator and nam network animator) and preferred tool of 6.899
-- [OPNET](http://www.opnet.com/) 
+- {{% resource_link "3b4da811-1909-4bc0-a89c-f230848b9cc8" "ns" %}} (network simulator and nam network animator) and preferred tool of 6.899
+- {{% resource_link "446d84e4-28d6-45cc-a959-a6afab9957fe" "OPNET" %}} 
 
 ### Routing Resources
 
